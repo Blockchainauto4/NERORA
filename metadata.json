@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA | Synaptic Auto-Trading Platform",
+  "description": "Autonomous multi-agent algorithmic auto-trading platform with real-time synaptic vortex visualization, 6 AI trading engines, live simulated order execution, and portfolio analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
